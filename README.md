@@ -1,2 +1,17 @@
-# expense-tracker
-A beautifully styled and responsive Expense Tracker built using HTML, CSS, and vanilla JavaScript. It allows users to track incomes and expenses with real-time balance updates, animated UI, and localStorage support for data persistence.
+# 💸 Expense Tracker
+
+A responsive and beautifully designed Expense Tracker web app built using **HTML**, **CSS**, and **JavaScript**. Users can track their income and expenses with a real-time balance summary, animated UI, and persistent storage using `localStorage`.
+
+## 🌟 Features
+
+- 📌 Add, remove, and track transactions
+- 📈 Live income and expense summary
+- 💾 Data saved in `localStorage` (persists on refresh)
+- 🎨 Modern, pastel-inspired gradient UI
+- 🔁 Dynamic DOM rendering and animated interactions
+
+- ## 🛠 Tech Stack
+
+- HTML5
+- CSS3 (Responsive, gradient backgrounds, transitions)
+- JavaScript (DOM, Events, localStorage)
